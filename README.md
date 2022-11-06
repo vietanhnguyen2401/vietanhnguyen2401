@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 🛠️ Languages and Tools :
-Java  Spring  CSS  HTML  JavaScript  MySQL  NodeJS  Git
+Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git
