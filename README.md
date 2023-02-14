@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vietanhnguyen2401
-- 👀 I’m interested in code, movies, music,etc.
+- 👀 I’m interested in watching movies & TV & sports, listening to music, reading books,etc.
 - 🌱 I’m currently learning information technology.
 - 💞️ I’m looking to learn more and collaborate on some project about html, css, python.
 
@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 🛠️ Languages and Tools :
-Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git
+Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git/ Python / C#
