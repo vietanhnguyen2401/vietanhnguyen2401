@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 ---
 🛠️ Languages and Tools :
 Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git/ Python / C#
+
+You can find me on social media:
+- Twitter: https://twitter.com/greghefley3
+- Instagram: https://www.instagram.com/vietanhnguyen517/
