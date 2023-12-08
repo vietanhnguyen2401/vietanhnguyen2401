@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git/ Python / C#
 
 You can find me on social media:
+- Facebook: https://www.facebook.com/profile.php?id=100006965650994
 - Twitter: https://twitter.com/greghefley3
 - Instagram: https://www.instagram.com/vietanhnguyen517/
