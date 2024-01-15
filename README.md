@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 🛠️ Languages and Tools :
-Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git/ Python / C#
+Java / CSS / HTML / JavaScript / MySQL / NodeJS / Git/ Python / C# / React
 
 You can find me on social media:
 - Facebook: https://www.facebook.com/profile.php?id=100006965650994
